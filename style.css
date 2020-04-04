@@ -42,6 +42,7 @@ margin-left: auto;
 section {
 text-align: center;
 width: 100%;
+background-color: green;
 }
 
 #details > div {
