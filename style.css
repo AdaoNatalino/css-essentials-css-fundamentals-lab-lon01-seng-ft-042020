@@ -39,8 +39,9 @@ margin-left: auto;
 }
 
 section {
-  display: block;
-}
+display: block;
+width: 100%;
+  }
 
 #details > div {
   float: left;
